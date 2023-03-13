@@ -1,7 +1,9 @@
 # baoiam_task
 
-Was A 
-Team Task Designed
+Was A Team Task
 
-Figma Files for the project and login And sign-up pAges
-Rest are the work of other members.
+Design the Basic Outlines for the Project Using Figma
+
+Also,Created Sign-Up And Login Pages.
+
+Rest Is the work of different members.
